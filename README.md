@@ -1,2 +1,2 @@
 # configs
-i3wm configs
+Variuous configs needed for my workstation setup.
