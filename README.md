@@ -1,2 +1,2 @@
 # configs
-Variuous configs needed for my workstation setup.
+Various configs needed for my workstation setup.
